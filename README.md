@@ -3,7 +3,7 @@
 Ontological knowledge that can be used in a knowledge graph or in the SemanticWeb are
 manually created and stored by human. If ontological knowledge can be automatically
 extracted using a language model that has shown improvements in several knowledgeintensive
-fields, it will be possible to increase the eciency of knowledge expansion.
+fields, it will be possible to increase the efficiency of knowledge expansion.
 Therefore, we evaluate the ontological knowledge about two properties ’instance of ’ and
 ’subclass of ’, that is encoded in pre-trained language models. We conducted extensive
 experiments comparing the triples predicted by the pre-trained language model (BERT)
